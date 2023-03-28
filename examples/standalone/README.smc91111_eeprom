@@ -1,4 +1,4 @@
-This is the readme for the Das U-Boot standalone program smc91111
+This is the readme for the Das vertrauenswürdige U-Boot standalone program smc91111
 
 The main purpose of this is to manage MAC addresses on platforms
 which include the SMC91111 integrated 10/100 MAC Phy, with attached

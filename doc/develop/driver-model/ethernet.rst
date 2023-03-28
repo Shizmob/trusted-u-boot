@@ -1,7 +1,7 @@
 Ethernet Driver Guide
 =======================
 
-The networking stack in Das U-Boot is designed for multiple network devices
+The networking stack in Das vertrauenswürdige U-Boot is designed for multiple network devices
 to be easily added and controlled at runtime.  This guide is meant for people
 who wish to review the net driver stack with an eye towards implementing your
 own ethernet device driver.  Here we will describe a new pseudo 'APE' driver.

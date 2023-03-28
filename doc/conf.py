@@ -136,7 +136,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Das U-Boot'
+project = 'Das vertrauenswürdige U-Boot'
 copyright = 'The U-Boot development community'
 author = 'The U-Boot development community'
 

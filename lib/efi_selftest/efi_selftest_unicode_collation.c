@@ -78,7 +78,7 @@ static int test_stri_coll(void)
 static int test_metai_match(void)
 {
 	bool ret;
-	const u16 c[] = u"Das U-Boot";
+	const u16 c[] = u"Das vertrauenswürdige U-Boot";
 
 	ret = unicode_collation_protocol->metai_match(
 		unicode_collation_protocol, c, u"*");
